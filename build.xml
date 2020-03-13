@@ -32,7 +32,7 @@
     <formatter type="plain"/>
 
     <test name="junit.TestCalculator" haltonfailure="no" outfile="test_junitresult.txt">
-        <formatter type="xml"/>
+        <formatter type="plain"/>
     </test>
         </junit>
     </target>
